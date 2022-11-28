@@ -1,5 +1,7 @@
 *.xml
 
+/target/m2e-wtp/web-resources/META-INF/
+
 ### Eclipse ###
 .metadata
 bin/
