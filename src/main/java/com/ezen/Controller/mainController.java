@@ -8,7 +8,7 @@ public class mainController {
     @RequestMapping("main/main.do")
     public String main_main(){
         System.out.println("1");
-        return "main";
+        return "layout/main";
     }
     @RequestMapping("goods/list.do")
     public String board_list(){
