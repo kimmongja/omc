@@ -67,3 +67,4 @@ $RECYCLE.BIN/
 target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
 target/m2e-wtp/web-resources/META-INF/maven/com.ezen/mealkit/pom.properties
 
+src/main/webapp/WEB-INF/jsp/.DS_Store
