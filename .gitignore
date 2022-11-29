@@ -1,3 +1,9 @@
+lecture
+target
+pom.properties
+.classpath
+MANIFEST.MF
+
 ### Eclipse ###
 .metadata
 bin/
@@ -60,3 +66,4 @@ $RECYCLE.BIN/
 *.lnk
 target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
 target/m2e-wtp/web-resources/META-INF/maven/com.ezen/mealkit/pom.properties
+
