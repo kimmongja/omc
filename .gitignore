@@ -61,3 +61,9 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
+
+# Windows shortcuts
+*.lnk
+target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+target/m2e-wtp/web-resources/META-INF/maven/com.ezen/mealkit/pom.properties
+
